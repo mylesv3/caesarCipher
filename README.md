@@ -1,8 +1,4 @@
 <h1>Caesar Cipher</h1>
-
-
-
-<h2>Description</h2>
 The project uses a simple algorithm to encrypt messages or strings of text
 <br />
 
