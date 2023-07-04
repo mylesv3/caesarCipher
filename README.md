@@ -6,7 +6,7 @@ This project uses a simple algorithm to encrypt messages or strings of text
 
 - <b>Python</b> 
 
-<h2>Environments Used </h2>
+<h2>What I Learned </h2>
 
-- <b>Windows 11</b> (21H2)
+- <b>Data Types</b> (21H2)
 
