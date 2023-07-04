@@ -8,5 +8,6 @@ This project uses a simple algorithm to encrypt messages or strings of text
 
 <h2>What I Learned </h2>
 
-- <b>Data Types</b> (21H2)
-
+- <b>Data Types</b> 
+- <b>Functions</b> 
+- <b>Loops</b> 
