@@ -1,9 +1,9 @@
-<h1>Caeser Cipher</h1>
+<h1>Caesar Cipher</h1>
 
 
 
 <h2>Description</h2>
-Project encryptes inputed text
+The project uses a simple algorithm to encrypt messages or strings of text
 <br />
 
 
