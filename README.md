@@ -2,7 +2,7 @@
 This project uses a simple algorithm to encrypt messages or strings of text
 <br />
 
-<h2>Languages and Utilities Used</h2>
+<h2>Languages Used</h2>
 
 - <b>Python</b> 
 
